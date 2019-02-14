@@ -1,0 +1,15 @@
+T:\sr\sunrise\sunriseBLL\bin\Debug\netstandard2.0\sunriseBLL.deps.json
+T:\sr\sunrise\sunriseBLL\bin\Debug\netstandard2.0\sunriseBLL.dll
+T:\sr\sunrise\sunriseBLL\obj\Debug\netstandard2.0\sunriseBLL.csproj.CoreCompileInputs.cache
+T:\sr\sunrise\sunriseBLL\obj\Debug\netstandard2.0\sunriseBLL.AssemblyInfoInputs.cache
+T:\sr\sunrise\sunriseBLL\obj\Debug\netstandard2.0\sunriseBLL.AssemblyInfo.cs
+T:\sr\sunrise\sunriseBLL\obj\Debug\netstandard2.0\sunriseBLL.csprojAssemblyReference.cache
+P:\Pick\Project\Sunrise\sunrise\sunriseBLL\bin\Debug\netstandard2.0\sunriseBLL.deps.json
+P:\Pick\Project\Sunrise\sunrise\sunriseBLL\bin\Debug\netstandard2.0\sunriseBLL.dll
+P:\Pick\Project\Sunrise\sunrise\sunriseBLL\bin\Debug\netstandard2.0\sunriseBLL.pdb
+P:\Pick\Project\Sunrise\sunrise\sunriseBLL\obj\Debug\netstandard2.0\sunriseBLL.csprojAssemblyReference.cache
+P:\Pick\Project\Sunrise\sunrise\sunriseBLL\obj\Debug\netstandard2.0\sunriseBLL.csproj.CoreCompileInputs.cache
+P:\Pick\Project\Sunrise\sunrise\sunriseBLL\obj\Debug\netstandard2.0\sunriseBLL.AssemblyInfoInputs.cache
+P:\Pick\Project\Sunrise\sunrise\sunriseBLL\obj\Debug\netstandard2.0\sunriseBLL.AssemblyInfo.cs
+P:\Pick\Project\Sunrise\sunrise\sunriseBLL\obj\Debug\netstandard2.0\sunriseBLL.dll
+P:\Pick\Project\Sunrise\sunrise\sunriseBLL\obj\Debug\netstandard2.0\sunriseBLL.pdb
